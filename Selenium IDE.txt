@@ -1,0 +1,3 @@
+Selenium IDE
+http://docs.seleniumhq.org/download/#selenium_ide
+http://docs.seleniumhq.org/projects/ide/
