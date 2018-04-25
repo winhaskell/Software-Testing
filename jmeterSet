@@ -1,0 +1,6 @@
+jmeter.bat    
+    
+    
+    set HEAP=-Xms256m -Xmx4g
+    set NEW=-XX:NewSize=128m -XX:MaxNewSize=1024m
+	  set PERM=-XX:PermSize=1024m -XX:MaxPermSize=1024m  
